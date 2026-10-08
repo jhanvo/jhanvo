@@ -3,8 +3,7 @@
 ## Sobre Mí
 Soy un desarrollador de software apasionado por la programación y la resolución de problemas. Disfruto trabajando en diversos proyectos, aprendiendo nuevas tecnologías y contribuyendo a comunidades de código abierto.
 
-- 🌱 Actualmente estoy aprendiendo **Analisis de datos**
-- 👯 Busco colaborar en **Proyectos de Código Abierto**
+-Busco colaborar en **Proyectos de Código Abierto**
 - 💬 Pregúntame sobre **JavaScript y Python**
 - 📫 Cómo contactarme: [johanvalencia397@gmail.com]
 - ⚡ Dato curioso: Tambien soy enfermero y proximamente Economista ;)
