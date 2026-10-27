@@ -3,7 +3,7 @@
 Aprendiz constante de programación y desarrollador de proyectos prácticos para fortalecer mis habilidades tecnológicas.
 
 ## Sobre Mí
-Soy un desarrollador de software apasionado por la programación y la resolución de problemas. Disfruto trabajando en diversos proyectos, aprendiendo nuevas tecnologías y contribuyendo a comunidades de código abierto.
+Soy Técnico en Programación de software apasionado por la programación y la resolución de problemas. Disfruto trabajando en diversos proyectos, aprendiendo nuevas tecnologías y contribuyendo a comunidades de código abierto.
 
 -🐍 Python
 -📊 Desarrollando herramientas de control de ventas y Dashboard en Excel
