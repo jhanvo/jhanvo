@@ -1,12 +1,12 @@
-¡Hola, soy Johan! 👋
+¡Hola, soy Johan! 
 
-💻 Técnico en Programación de Software | Aprendiz de Python | Explorando el análisis de datos
+💻 Técnico en Programación de Software graduado | Desarrollador en formación | Entusiasta de Python y el análisis de datos
 
-Soy un apasionado de la tecnología, la programación y la resolución de problemas. Me gusta aprender constantemente, desarrollar proyectos prácticos y utilizar herramientas tecnológicas para crear soluciones útiles.
+Soy Técnico en Programación de Software, apasionado por la tecnología, la programación y la resolución de problemas. Me gusta transformar ideas en proyectos prácticos, aprender nuevas herramientas y desarrollar soluciones que aporten valor!
 
 🙋‍♂️ Sobre mí
 
-- 🎓 Técnico en Programación de Software.
+- 🎓 Técnico en Programación de Software graduado.
 - 🐍 Aprendiendo y desarrollando proyectos con Python.
 - 📊 Creando herramientas de control de ventas y dashboards en Excel.
 - 🧩 Disfruto resolver problemas mediante proyectos prácticos.
